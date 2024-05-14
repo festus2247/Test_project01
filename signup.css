@@ -1,0 +1,73 @@
+.tote>button{
+    margin-right:-50px ;
+    margin-top: -40px;
+    border-radius: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        background-color: black;
+        color: aliceblue;
+        font-size:17px;
+}
+.vik{
+    border-style: solid;
+    width: 400px;
+    height: 450px;
+    border-radius: 10px;
+    background-image: url(../images/k.JPG);
+background-size: cover;
+   
+}
+.seed>button{
+    margin-right:px ;
+    margin-top: -40px;
+    border-radius: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        background-color: black;
+        color: aliceblue;
+       
+}
+body{
+    background-image: url(../images/k.JPG);
+    background-size: cover;
+    
+}
+.suck{
+    color: white;
+    text-decoration: none;
+}
+.pass>button{
+    margin-top: -12px;
+    margin-top: -40px;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   border-bottom: none;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        background-color: rgb(39, 62, 86);
+        color:rgb(255, 255, 255);
+        
+}
+.jugg{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 10px;
+
+}
+.xup{
+    color: white;
+    text-decoration: none;
+}
+.gun{
+    color: rgb(246, 0, 0);
+}
+.vvv{
+    color:white;
+}

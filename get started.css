@@ -1,0 +1,355 @@
+.tote>button{
+    margin-left:100px ;
+    border-radius: 10px;
+    background-color: rgb(191, 188, 188);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 8px;
+    
+    color: black;
+
+}
+.butt{
+    color: black;
+    text-decoration: none;
+}
+.hill{
+    margin-left: 855px;
+    margin-top: -20px;
+    border-style:solid;
+    border-color: rgb(237, 232, 232);
+    border-radius: 10px;
+    border: none;
+    border-bottom: none;
+}
+.dropdown-menu{
+    border:none;
+   
+}
+.goal{
+    margin-left: 730px;
+    margin-top: -20px; 
+    border-style:solid;
+    border-color: rgb(238, 236, 236);
+    border-radius: 10px;
+}
+.kill{
+    margin-left: 1020px;
+    margin-top: -20px; 
+    border-style:solid;
+    border-color: rgb(238, 236, 236);
+    border-radius: 10px;  
+    font-size: 17px;
+}
+.fold{
+    margin-left: 400px;
+    font-size: 87px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bone{
+    margin-top: -45px;
+    font-size: 87px;
+    margin-left: 15px;
+}
+.fling{
+    margin-left: 470px;
+    margin-top: 23px;
+    font-size: 20px;
+}
+.but{
+    margin-top: -15px;
+}
+.mean{
+    color: brown;
+}
+.dropdown-itemm{
+    text-decoration: none;
+    color: black;
+}
+.dropdown-itemg{
+    text-decoration: none;
+    color: black;
+}
+.dropdown-itemk{
+    text-decoration: none;
+    color: black; 
+}
+
+.gillt{
+    border-radius: 10px;
+    padding-right: 130px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-left: 400px;
+}
+.eighty{
+    border-radius: 10px;
+    padding-right: 130px;
+    padding-top: 12px;
+    padding-bottom: 12px; 
+    margin-left: 70px;
+}
+.tenk{
+    border-radius: 10px;
+    padding-right: 519px;
+    padding-top: 12px;
+    padding-bottom: 12px; 
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.twof{
+    border-radius: 10px;
+    padding-right: 519px;
+    padding-top: 12px;
+    padding-bottom: 12px; 
+    margin-left: 400px;
+    margin-top: 50px; 
+}
+.threen{
+    margin-left: 400px;
+    color: rgb(255, 255, 255);
+}
+.sixb>button{
+    margin-left:400px ;
+    border-radius: 10px;
+    background-color:black;
+    padding-left: 310px;
+    padding-right: 310px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    color: white;
+}
+.fivei{
+    background-color: rgb(1, 105, 105);
+    height: 570px;
+    width: 1250px;
+    margin-left: 130px;
+    border-radius: 10px;
+}
+.sevenn{
+    margin-left: -120px;
+}
+.four{
+    font-size: 55px;
+    margin-left: 310px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.nine{
+    margin-left: 310px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.five{
+    margin-top: -17px;
+}
+.buns>button{
+    font-size: 20px;
+ margin-left: 20px;
+ background-color: white;
+ color: black;
+ border-radius: 10px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ padding-left: 10px;
+ padding-right: 10px;
+ 
+}
+.six{
+    display: flex;
+    flex-direction: row;
+    margin-left: 300px;
+   
+}
+.three>button{
+    font-size: 20px;
+    margin-left: 20px;
+    background-color: rgb(0, 0, 0);
+    color:white;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+}
+.ten{
+    background-color: black;
+    width: 1250px;
+    margin-left: 130px;
+    padding-right: 220px;
+    height: 550px;
+    border-radius: 10px;
+    color: white;
+
+}
+.eight>button{
+    font-size: 15px;
+    margin-left: 20px;
+    background-color:white;
+    color:black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    margin-left: -130px;
+    display: flex;
+    flex-direction: column;
+}
+.seven{
+    margin-left: 160px;
+   margin-top: -80px;
+}
+.eleven{
+    margin-left: 90px;
+    margin-top: -80px;
+}
+.years>button{
+    margin-left: -135px;
+    font-size: 15px;
+  
+    background-color:white;
+    color:black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+   
+}
+
+.twelve>button{
+    font-size: 15px;
+    margin-left: 20px;
+    background-color:white;
+    color:black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    margin-left: -135px;
+    display: flex;
+    flex-direction: column; 
+}
+.sixt{
+    margin-left: 110PX;
+    margin-top: -80px;
+
+}
+.fout>button{
+    font-size: 15px;
+    background-color:white;
+    color:black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    margin-left: -150px;
+    display: flex;
+    flex-direction: column; 
+}
+.sept{
+    margin-left: 120px;
+    margin-top: -80px;
+}
+.duo>button{
+    font-size: 15px;
+    margin-left: 20px;
+    background-color:white;
+    color:black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    margin-left: -135px;
+    display: flex;
+    flex-direction: column;  
+}
+.nimb{
+    margin-left: 120px;
+    margin-top: -80px;
+}
+.trax>button{
+    font-size: 15px;
+    background-color:white;
+    color:black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    margin-left: -110px;
+    display: flex;
+    flex-direction: column;  
+}
+.man{
+    display: flex;
+    flex-direction: row;
+}
+.seek>button{
+    margin-left: -133.9px;
+    font-size: 15px;
+   
+    background-color:white;
+    color:black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+.sude>button{
+    font-size: 15px;
+   margin-left: -149.9px;
+    background-color:white;
+    color:black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+.homework{
+    color: black;
+    text-decoration: none;
+}

@@ -1,0 +1,128 @@
+.tote>button{
+    margin-right:-50px ;
+    margin-top: -40px;
+    border-radius: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        background-color: black;
+        color: aliceblue;
+        font-size:17px;
+}
+.hello>button{
+    margin-right:-50px ;
+    margin-top: 7px;
+    border-radius: 10px;
+        padding-left: 36.8px;
+        padding-right: 36.8px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: black;
+        color: aliceblue;
+        font-size:17px;
+}
+.xup{
+    color: white;
+    text-decoration: none;
+}
+.sucker{
+    padding-right: 50px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius:3px ;
+    border-color: rgb(162, 185, 144);
+}
+.votee{
+    font-size: 22px;
+    padding-right: 50px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 3px;
+    color: rgb(109, 107, 107);
+    border-color: rgb(42, 86, 7);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.funn{
+    font-size: 23px;
+    margin-top: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.move{
+    margin-left: 100px;
+    border-style:solid ;
+    border-color:black;
+    width: fit-content;
+    padding-left: 15px;
+    padding-right:15px;
+    border-radius: 10px;
+    background-image: url(../images/k.JPG);
+    background-size: cover;
+}
+.here{
+    margin-top: -15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.exx{
+    margin-left: 50px;
+}
+.gun{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url(../images/k.JPG);
+    background-size: cover;
+}
+.side{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.got{
+    margin-top: -15px;
+}
+.cuty{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.jun{
+    margin-top: -15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bad{
+   
+}
+.hip{
+    display: flex;
+    flex-direction: row;
+}
+.vid{
+    display: flex;
+    flex-direction: column;
+}
+.dupe{
+    display: flex;
+    flex-direction: column;
+    margin-left: 120px;
+    color: white;
+    border-style: solid;
+    border-color: rgb(8, 7, 7);
+    height:580px ;
+    background-color:rgb(20, 55, 55);
+    border-radius: 10px;
+    width: 500px;
+    padding-left: 25px;
+
+    
+   
+}
+.mnm{
+    color: white;
+    text-decoration: none;
+}
+.sad{
+    color: rgb(230, 65, 65);
+}
+.sixx{
+    color: white;
+}

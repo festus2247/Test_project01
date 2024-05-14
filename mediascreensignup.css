@@ -1,0 +1,10 @@
+@media(max-width:780px){
+    .vik{
+        margin-left: -80px;
+        margin-top: -30px;
+    }
+    .tote>button{
+        margin-left: 350px;
+        margin-top:27px;
+    }
+}
